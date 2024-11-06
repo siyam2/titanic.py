@@ -1,8 +1,7 @@
-streamlit 
-pandas 
+streamlit
+pandas
 seaborn
 matplotlib
-sklearn.ensemble 
+scikit-learn
 folium
-streamlit_folium
-sklearn.preprocessing
+streamlit-folium
