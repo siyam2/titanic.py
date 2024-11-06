@@ -1,3 +1,8 @@
-git add requirements.txt
-git commit -m "Add requirements.txt with necessary dependencies"
-git push origin main
+streamlit 
+pandas 
+seaborn
+matplotlib.pyplot
+sklearn.ensemble 
+folium
+streamlit_folium
+sklearn.preprocessing
