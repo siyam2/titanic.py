@@ -1,7 +1,7 @@
 streamlit 
 pandas 
 seaborn
-matplotlib.pyplot
+matplotlib
 sklearn.ensemble 
 folium
 streamlit_folium
